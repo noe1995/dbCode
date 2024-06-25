@@ -1,0 +1,510 @@
+{
+    "table_name": "`almacenes`",
+    "columns": [
+        {
+            "name": "VARCHAR(4)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NOT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "''",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`seccion",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(4)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`nombre",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(40)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NOT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "''",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`tipo",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(1)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`calle",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(60)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`colonia",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(40)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`cp",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(10)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`localidad",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(40)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`telefono1",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(15)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`telefono2",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(15)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`telefono3",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(15)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`telefono4",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(15)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`encargado",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(10)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`email",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(50)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`termimpsur",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "VARCHAR(10)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NOT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "''",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "COLLATE",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'latin1_swedish_ci',`activo",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "TINYINT(1)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "'1',`permitecompras",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "TINYINT(1)",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NOT",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "NULL",
+            "type": "",
+            "size": null
+        },
+        {
+            "name": "DEFAULT",
+            "type": "",
+            "size": null
+        }
+    ]
+}

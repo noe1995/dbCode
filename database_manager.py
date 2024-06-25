@@ -48,11 +48,15 @@ class DatabaseManager:
             os.makedirs(os.path.join(db_path, 'temp'))
             os.makedirs(os.path.join(db_path, 'cache'))
             os.makedirs(os.path.join(db_path, 'log'))
+            os.makedirs(os.path.join(db_path, 'tables'))  # Asegurar creación de la carpeta tables
             self._log(f"CREATE DATABASE {db_name}")
             print(f"Base de datos '{db_name}' creada con subcarpetas en '{db_path}'")
         except FileExistsError:
             print(f"La base de datos '{db_name}' ya existe.")
             self._log(f"ERROR: La base de datos '{db_name}' ya existe.", is_error=True)
+
+    def create_table(self, db_name):
+        pass
 
     def list_databases(self):
         """Lista todas las bases de datos existentes."""

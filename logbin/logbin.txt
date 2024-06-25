@@ -35,3 +35,4 @@ CREATE DATABASE dbCode0
 [2024-06-24 20:33:45] [ERROR] Error de sintaxis: Error de sintaxis en el comando SQL: 'create user 'juan'@'localhost' identify by 'juan';'. Uso esperado: CREATE USER 'username'@'localhost' IDENTIFIED BY 'password'.
 [2024-06-24 20:34:09] [INFO] Recibido: CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
 [2024-06-24 20:34:09] [INFO] CREATE USER 'username'@'localhost' IDENTIFIED BY 'password'
+[2024-06-24 21:29:58] [INFO] LOGIN SUCCESS: Usuario 'root' ingresó correctamente.

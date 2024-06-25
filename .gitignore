@@ -1,4 +1,4 @@
-logbin/logbin.txt
+logbin/*
 users/users.csv
 databases/*
 procedures/*

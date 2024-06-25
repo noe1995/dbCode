@@ -1,0 +1,37 @@
+CREATE DATABASE myDataBase
+DROP DATABASE myDataBase
+CREATE DATABASE myDataBase
+CREATE DATABASE dbCode0
+[INFO] Recibido: create database dataset01;
+[ERROR] Error de sintaxis: Error de sintaxis en el uso de 'CREATE'. Uso esperado: CREATE DATABASE {nombre}. Comando: 'create database dataset01;'.
+[INFO] Recibido: create database dataset01
+[ERROR] Error de sintaxis: Error de sintaxis en el uso de 'CREATE'. Uso esperado: CREATE DATABASE {nombre}. Comando: 'create database dataset01'.
+[INFO] Recibido: CREATE DATABASE dbo
+[ERROR] Error de sintaxis: Error de sintaxis en el uso de 'CREATE'. Uso esperado: CREATE DATABASE {nombre}. Comando: 'CREATE DATABASE dbo'.
+[INFO] Recibido: create database dbo;
+[ERROR] Error de sintaxis: Error de sintaxis en el uso de 'CREATE'. Uso esperado: CREATE DATABASE {nombre}. Comando: 'create database dbo;'.
+[INFO] Recibido: create database dataset001;
+[ERROR] Error de sintaxis: Error de sintaxis en el uso de 'CREATE'. Uso esperado: CREATE DATABASE {nombre}. Comando: 'create database dataset001'.
+[INFO] Recibido: create database test
+[ERROR] Error de sintaxis: Error de sintaxis en el uso de 'CREATE'. Uso esperado: CREATE DATABASE {nombre}. Comando: 'create database test'.
+[INFO] Recibido: CREATE DATABASE TEST
+[ERROR] Error de sintaxis: Error de sintaxis en el uso de 'CREATE'. Uso esperado: CREATE DATABASE {nombre}. Comando: 'CREATE DATABASE TEST'.
+[INFO] Recibido: create database dbo01;
+[INFO] CREATE DATABASE dbo01
+[INFO] Recibido: delete database dbo01;
+[ERROR] Error de sintaxis: Comando 'None' no soportado en el comando: 'delete database dbo01'.
+[INFO] Recibido: drop database dbo01;
+[INFO] DROP DATABASE dbo01
+[INFO] Recibido: create database dbCode01;
+[INFO] CREATE DATABASE dbCode01
+[INFO] Recibido: create user 'noe'@'localhost' identified by 'p1osn016';
+[INFO] CREATE USER 'noe'@'localhost' IDENTIFIED BY 'p1osn016'
+[2024-06-24 20:29:01] [ERROR] LOGIN ERROR: Usuario 'sa' no definido.
+[2024-06-24 20:29:05] [ERROR] LOGIN ERROR: Contraseña incorrecta para el usuario 'root'.
+[2024-06-24 20:29:24] [ERROR] LOGIN ERROR: Contraseña incorrecta para el usuario 'root'.
+[2024-06-24 20:29:29] [ERROR] LOGIN ERROR: Contraseña incorrecta para el usuario 'root'.
+[2024-06-24 20:33:12] [INFO] LOGIN SUCCESS: Usuario 'root' ingresó correctamente.
+[2024-06-24 20:33:45] [INFO] Recibido: create user 'juan'@'localhost' identify by 'juan';
+[2024-06-24 20:33:45] [ERROR] Error de sintaxis: Error de sintaxis en el comando SQL: 'create user 'juan'@'localhost' identify by 'juan';'. Uso esperado: CREATE USER 'username'@'localhost' IDENTIFIED BY 'password'.
+[2024-06-24 20:34:09] [INFO] Recibido: CREATE USER 'username'@'localhost' IDENTIFIED BY 'password';
+[2024-06-24 20:34:09] [INFO] CREATE USER 'username'@'localhost' IDENTIFIED BY 'password'
